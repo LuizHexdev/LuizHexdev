@@ -1,25 +1,104 @@
-# Olá, meu nome é Luiz Henrique! 👋😁
-<br>
-<div>
-  <a href="https://github.com/LuizHexdev">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LuizHexdev&rank_icon=github&custom_title=Luiz%20Henrique%27s%20GitHub%20Stats&include_all_commits=true&theme=dracula"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=LuizHexdev&langs_count=4&theme=dracula"/>
-</div>
+# 🧑🏽‍💻 Olá, meu nome é Luiz Henrique!
 
-##
+**`Estudante de TI e Data Analytics`**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Luiz-PD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg"/>
-  <img align="center" alt="Luiz-NUMPY" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
-  <img align="center" alt="Luiz-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Luiz-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Luiz-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Luiz-PGSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img align="center" alt="Luiz-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Luiz-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
-  <img align="center" alt="Luiz-FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-  <img align="center" alt="Luiz-VSCODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-</div>
+Meu nome é Luiz Henrique, tenho 22 anos e sou estudante de Ciência da Computação na Unifacs. Atualmente, trabalho como Assistente de TI, onde atuo com suporte técnico, manutenção de equipamentos, redes de computadores, sistemas e infraestrutura de tecnologia. Sou apaixonado por tecnologia e estou constantemente buscando aprimorar meus conhecimentos na área de programação e dados. Tenho estudado Python e, nesse processo, venho aprofundando meus conhecimentos na linguagem, explorando seus recursos para manipulação, análise e processamento de dados.
 
-##
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreeSQL"
+    title="PostgreeSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=LuizHexdev&rank_icon=github&custom_title=Luiz%20Henrique%27s%20GitHub%20Stats&include_all_commits=true&theme=dracula" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=LuizHexdev&langs_count=4&theme=dracula" 
+  />
+</p>
