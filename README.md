@@ -84,6 +84,8 @@ Meu nome é Luiz Henrique, tenho 22 anos e sou estudante de Ciência da Computa�
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
